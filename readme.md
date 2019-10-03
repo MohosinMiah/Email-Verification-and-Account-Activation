@@ -1,1 +1,1 @@
-# Email Verification and Account Activation
+# Email Verification and Account Activation Using Laravel
